@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with *Data Science*
 - 💬 Ask me about *HOW TO PROGRAM IN PYTHON*
 - 📫 How to reach me: ```senajithsrs@gmail.com```
-- 😄 Pronouns: ...
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
