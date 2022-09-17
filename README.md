@@ -8,5 +8,5 @@
 - 💬 Ask me about *HOW TO PROGRAM IN PYTHON*
 - 📫 How to reach me: ```senajithsrs@gmail.com```
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: *I hate coding!*
 
