@@ -1,12 +1,32 @@
-# Hi there 👋
+# HOLA AMIGOS!👋
 
+* I’m Senajith S R 
+  * **COLLEGE** : 
+    * *_Sri Venkateswara College of Engineering_* 
+    * *_B Tech in Artificial Intelligence and Data Science_*
+    * *_Junior_*
+    * *_Data Science_*
+    * *_Front end development_*
+  * **SCHOOL** :
+    * *_R M Jain School_* 
+    * *_Grade 12 -> Mathematics and Computer Science_* 
+* 👀 I’m interested in ```Front end development``` ```Artificial Intelligence``` ```Data Analysis``` ```React JS``` 
+* 🌱 I’m currently learning *_Python_*_ - *_Django_* *_Flask_*
+* 💞️ I’m looking to collaborate on companies that seek to **Automate** tedious *_man work_*
+* 📫 How to reach me **senajithsrs@gmail.com**
 
-- 🔭 I’m currently working on *Python*
-- 🌱 I’m currently learning *MERN*
-- 👯 I’m looking to collaborate on *Full Stack/Data Science*
-- 🤔 I’m looking for help with *Data Science*
-- 💬 Ask me about *HOW TO PROGRAM IN PYTHON*
-- 📫 How to reach me: ```senajithsrs@gmail.com```
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: *I hate coding!*
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Senajith&show_icons=true_color=fff&theme=algolia">
+</p>
 
+<p align="center">
+  <a href="https://github.com/Rahul040202">
+    <img src="https://komarev.com/ghpvc/?username=Senajith" alt="page views" />
+  </a>
+</p>
+
+<!---
+Rahul040202/Rahul040202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
