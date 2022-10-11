@@ -8,8 +8,8 @@
     * *_Data Science_*
     * *_Front end development_*
   * **SCHOOL** :
-    * *_R M Jain School_* 
-    * *_Grade 12 -> Mathematics and Computer Science_* 
+    * *_Sri R M Jain School_* 
+    * *_Grade 12 -> Mathematics* 
 * 👀 I’m interested in ```Front end development``` ```Artificial Intelligence``` ```Data Analysis``` ```React JS``` 
 * 🌱 I’m currently learning *_Python_* - *_Django_* - *_Flask_*
 * 💞️ I’m looking to collaborate on companies that seek to **Automate** tedious *_man work_*
