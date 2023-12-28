@@ -4,7 +4,7 @@
   * **COLLEGE** : 
     * *_Sri Venkateswara College of Engineering_* 
     * *_B Tech in Artificial Intelligence and Data Science_*
-    * *_Junior_*
+    * *_Senior_*
     * *_Data Science_*
     
   * **SCHOOL** :
